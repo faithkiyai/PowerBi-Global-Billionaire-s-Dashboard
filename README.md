@@ -1,4 +1,5 @@
 rank: The ranking of the billionaire in terms of wealth.
+
 finalWorth: The final net worth of the billionaire in U.S. dollars.
 category: The category or industry in which the billionaire's business operates.
 personName: The full name of the billionaire.
